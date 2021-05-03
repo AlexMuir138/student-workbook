@@ -3,7 +3,7 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+It is shorthand for change directory. It basically means "go here" for files in the command line.
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
