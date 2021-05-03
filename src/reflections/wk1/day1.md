@@ -1,7 +1,8 @@
-# What is Git and why do we use it? 
+What is Git and why do we use it? 
 
->In your own words, why do we use Git?
--
+
+In your own words, why do we use Git?
+
 
 What are the benefits of having multiple branches?
 
