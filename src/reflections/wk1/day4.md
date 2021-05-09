@@ -1,3 +1,5 @@
+Journal 4 
+
 What is the purpose of wire-framing?
 
 Wire framing is specifically for the designer to visualize their page and edit it with an interactive paint tool. You can get your boxes and buuttons where you want, find out what colors will look the best, and figure out what text you want. You can also try and visualize how you want the user to navigat by mapping pages together. It's a really useful tool.

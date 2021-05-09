@@ -1,3 +1,5 @@
+Journal 1 
+
 What is Git and why do we use it? 
 
 Git is an open source distributed version control system. It is used to distribute code into every developers computer as well as a repository.

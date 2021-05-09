@@ -1,3 +1,5 @@
+Journal 2 
+
 What is a Pseudo-Class and what are some of the most common ones you think you will use?
 
 A psuedo class is a keyword that you can add to a selector. The most common one being :root. Other important ones will be :first-child :only-child.

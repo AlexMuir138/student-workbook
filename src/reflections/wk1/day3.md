@@ -1,3 +1,5 @@
+Journal 3 
+
 What is your favorite tip that you think is the most beneficial to improving your design?
 
 I think some of my favorite tips are the contrast between text colors to make them pop and configuring box shadows to get those cards and sections to stand out. I also, for some reason, really like the concept of accent borders. They really are very simple but ad a lot to the page.
