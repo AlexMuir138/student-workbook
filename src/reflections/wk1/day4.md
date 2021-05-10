@@ -11,3 +11,5 @@ There is low, mid, and high fidelity wireframes. Low-fidelity wireframes are you
 Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 
 Yes, absolutely. I may not be the most gifted person at designing a website, but if I were trying to conceptualize I would definitely start with wire-framing. You have to know your blue-print before you build your house. So this is a good way to know that you like where everything is and how it funtions before you even start touching your code.
+
+https://alexmuir138.github.io/mockup-assignment/

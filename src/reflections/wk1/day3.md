@@ -11,3 +11,5 @@ At the moment I only know of bootstrap as a resource for good design ideas. Ther
 How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
 Design is everything to the user. The better designed your page is the more you can pull people's eyes where you want them. You put the imporant text front and center and in tones that magnetize the user's gaze as well as use good color to make it easier to look at. A good design could mean the difference between a company making money or none at all.
+
+https://alexmuir138.github.io/BootstrapPractice/
