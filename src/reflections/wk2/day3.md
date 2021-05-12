@@ -13,3 +13,5 @@ The elements tab. You can see all of the classes and ids associated with the DOM
 Outside of writing everything to the console, what is a better way to debug your code?
 
 You can use break points in your code which will pause on that line so that you can slow down your computer and see what the problem is. You can use the devtools to go through line by line and see what's broken. 
+
+https://alexmuir138.github.io/rock-paper-scissors/
