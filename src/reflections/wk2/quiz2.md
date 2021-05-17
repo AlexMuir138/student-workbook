@@ -38,7 +38,7 @@ You can put them.push into the array itself.
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if, else, else if, switch statements are all conditionals.
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -47,26 +47,26 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+It's the incrementor. You would put i++.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+The document object model. The first file called is the html.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+number, boolean, undefined, bigint, string, symbol, null, object, and function.
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+A parameter is what a function asks for when it is called and the argumant is what the user passes into the function. 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+Primiitive values stored are fixed and javascript stores it on the stack and reference values are more dynamic and stores it on the heap. When you work on a primitive value you work on its actual value wheras on reference you are working on an object so you reference the object before you work on it.
 ```

@@ -2,3 +2,4 @@ Journal 9
 
 This week was tough. I had no experience with JS and starting from scratch was a big hurdle. I feel like I know a few basics now, but I am nowhere near comfortable enough to write with any confidency. I took a tutoring session which helped a little but I think the one thing that will help me the most is actually just repetition. There is one thing about the course that I think is a little unbalanced which is how we are shown the very basics of this language and then given complex problems in the afternoon that require extensive help. It feels a lot like being told how to fix a car and we are shown the gas cap and how to put in fuel and also shown how to check our fluids and once we have a basic understanding of that we are told to fix the transmission. It just seems like too big of a leap from A to B. Just my personal feelings on this week.
 
+https://alexmuir138.github.io/checkpoint-2/
