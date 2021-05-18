@@ -11,3 +11,5 @@ Breaking changes, leaked implementation details, expanded attack surfaces for ha
 How do we create private variables in a ES6 Class? Why would you do this?
 
 Using closures and private fields. Using these prevents the problems associated with the underscore prefix and puts your data into true encapsulation.
+
+https://alexmuir138.github.io/vending-machine/
