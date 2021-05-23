@@ -1,3 +1,5 @@
 Journal 14 
 
-Open Format
+This last week was very difficult. I really tried to learn as much as I could about the material but the amount that I have to outsource and try to teach myself is kind of getting unnerving. If I had not gotten help with my project this week I would not have even come close to finishing it. After struggling through JS pretty hard and then this I'm starting to feel the imposter syndrome they were talking about. I can somehow get things to work with assistance, but the amount I understand about this material is making me feel like I can't do this. I am hoping that this feeling goes away with repetition, but I'm also afraid of how much harder this will get. This project does not carry a lot of confidence in my abilities even though I did finish it.
+
+https://alexmuir138.github.io/checkpoint-3/
