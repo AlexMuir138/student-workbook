@@ -20,3 +20,6 @@ DELETE FROM table_name;
 DROP TABLE table_name;
 
 Delete from would delete a specific index property and drop would delete the entire table.
+
+Made database changes to gregslist instead of doing knights
+https://github.com/AlexMuir138/Gregslist.git

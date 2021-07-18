@@ -1,0 +1,5 @@
+Journal 44
+
+This week was odd. It seemed to be that everyone got senior-itis and didn't want to accomplish anything really. It also didn't help that the afternoon projects usually didn't take very long. I did all but one (to hookup my gregslist to a server instead of doing the knights assignment) and I got a lot of good practice. However it did not take long. The hackathon was sort of a waste as well because we had already finished what we wanted for our capstone before we went to break. We also tailored our capstone to fit into the two week period we were given and that we would only have three devs. We ended up with four and we were done two days early actually. I took the time to do a many to many relationship in MySql and C# this weekend to really be ready for the final as well. I put in quite a bit of effort when most people had sort of checked out. I hope it pays off for the final.
+
+https://github.com/AlexMuir138/RealmCommander.git
